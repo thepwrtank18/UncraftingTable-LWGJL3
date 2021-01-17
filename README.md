@@ -1,5 +1,5 @@
 # Uncrafting Table - LWGJL3
-Uncrafting Table for 1.14 and up.
+Uncrafting Table for 1.14.
 
 ## How?
 A 1.14 version of Uncrafting Table has existed since Febuary of 2020, and official too! You can find it here: https://github.com/crazysnailboy/UncraftingTable/pull/37
